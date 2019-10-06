@@ -23,6 +23,7 @@ The above command scans subnet 192.168.1.6/30 and google.com. It scans for the p
 ## GUI
 
 A simple GUI, that takes as input hostnames, ports, protocols to scan, and output file name. It also show the progress of the scan. 
+		sudo python3 port_scanner.py -GUI
 
 ## What all this port Scanner can do
 - Allow command-line switches to specify a host and port.
